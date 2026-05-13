@@ -19,9 +19,6 @@ Covers 15+ cities across India
 Built With
 HTML5 — structure, layout, and styling all written in a single file, deployed on Cloudflare Pages.
 
-Getting Started
-
-Simply visit the live site: https://littlesteps-5c0.pages.dev/
 
 Author
 
